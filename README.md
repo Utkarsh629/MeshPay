@@ -1,4 +1,4 @@
-# Networkless UPI
+# MeshPay – Offline Mesh Payment System
 
 > A proof-of-concept system that explores how payment instructions could travel through an offline peer-to-peer mesh network and settle once connectivity becomes available.
 
